@@ -30,8 +30,7 @@ public class App {
         System.out.printf("\nInforme o numero de casos no centro:\n");
         centro = ler.nextInt();
         brasil = sul + sudeste + norte + nordeste + centro;
-        // System.out.printf("\n%6.2f%% de brasil.\n",brasil);
-
+        
         percSul = ((double) sul / brasil) * 100;
         percSudeste = ((double) sudeste / brasil) * 100;
         percNorte = ((double) norte / brasil) * 100;
