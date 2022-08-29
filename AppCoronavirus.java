@@ -7,7 +7,7 @@
 // O programa deve exibir na tela um painel de dados com as seguintes informacoes:
 // 1.  Nome da regiao e o numero de casos
 // 2.  Numero de casos no Brasil
-// 3.  Porcentual que cada regiao representa em relacao ao total    de casos no Brasil.
+// 3.  Porcentual que cada regiao representa em relacao ao total de casos no Brasil.
 
 import java.util.Scanner;
 
